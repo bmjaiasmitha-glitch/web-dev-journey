@@ -70,3 +70,33 @@ button {
     background-color: white;
     color: #020617;
 }
+
+/* Header */
+.header {
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #1e293b;
+}
+
+/* Main */
+.main {
+    margin-top: 40px;
+}
+
+/* Hero Section */
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 40px;
+}
+
+/* Footer */
+.footer {
+    margin-top: 60px;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #94a3b8;
+}
