@@ -100,3 +100,27 @@ button {
     font-size: 14px;
     color: #94a3b8;
 }
+
+/* Sections */
+section {
+    max-width: 600px;
+    margin: 60px auto;
+    text-align: left;
+}
+
+/* About */
+.about p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Skills */
+.skills ul {
+    list-style: none;
+    margin-top: 20px;
+}
+
+.skills li {
+    margin: 10px 0;
+    font-size: 18px;
+}
